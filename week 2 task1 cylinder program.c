@@ -2,7 +2,8 @@
 Name: Paul Guthera 
 Reg no: CT100/G/30675/26
 Date:20/09/2026
-Basic volume and surface area calculator*/
+Basic volume and surface area calculator
+*/
 
 #include<stdio.h>
 #include<math.h>
