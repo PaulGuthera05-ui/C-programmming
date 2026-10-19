@@ -1,17 +1,12 @@
 /*
 Name:Paul Guthera 
 Reg No:CT100/G/30675/26
-Description:Hello lecture Paul 
+Description:Hello  Paul 
 Date:12/9/2026
 Version 1
-
 */
 
-//pre-processor directive
-#include <stdio.h>//scanf(),printf ()
-#include <math.h>//sin(),cos(),sqrt()
-
-#define pi 3.142
+#include <stdio.h>
 
 int main(){
 printf("UNITS TO COVER IN THE FIRST SEMISTER 2026\n");
@@ -24,5 +19,5 @@ printf("Communication and information literacy skills\n");
 printf("Introduction to programmingand alogarithims\n");
 printf("Fundamental of digital technology and artific\n");
 
-return 0;//execution successful 
+return 0; 
  }   
